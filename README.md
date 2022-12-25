@@ -13,9 +13,10 @@ enter a input of list
 Get the value from the user for the number of rotation
 ### Step 4: 
 Using the slicing concept rotate the list
-
 ### Step 5: 
+fill the n: value and sum the :n value
 ### Step 6: 
+print the values
 ## Program:
 ```
 #Program to circulate N values.
